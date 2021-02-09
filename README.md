@@ -1,3 +1,3 @@
-#MyApp
+# MyApp
 
-this is my app
+This is my app. My first repository <b>online</b>.
